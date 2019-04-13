@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
     <build>
-    <finalName>april_14.war</finalName>
+
+    <finalName>april_14</finalName>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
